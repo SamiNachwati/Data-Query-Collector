@@ -1,0 +1,10 @@
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\bin\Debug\DatabaseForm.exe.config
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\bin\Debug\DatabaseForm.exe
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\bin\Debug\DatabaseForm.pdb
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\obj\Debug\DatabaseForm.csproj.AssemblyReference.cache
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\obj\Debug\DatabaseForm.Form1.resources
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\obj\Debug\DatabaseForm.Properties.Resources.resources
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\obj\Debug\DatabaseForm.csproj.GenerateResource.cache
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\obj\Debug\DatabaseForm.csproj.CoreCompileInputs.cache
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\obj\Debug\DatabaseForm.exe
+C:\Users\samin\OneDrive\Desktop\ExamPracticeRouter\DatabaseForm\obj\Debug\DatabaseForm.pdb
